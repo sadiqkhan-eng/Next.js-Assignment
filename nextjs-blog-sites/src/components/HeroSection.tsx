@@ -9,10 +9,10 @@ const HeroSection = () => {
     >
       <div className="container mx-auto px-4 text-center relative z-10">
         <h1 className="text-4xl md:text-6xl font-extrabold leading-tight mb-4 animate-fade-in-down">
-          Add random title now
+          NextWave Blog Platform
         </h1>
         <p className="text-lg md:text-xl mb-8 opacity-90 animate-fade-in-up">
-          add random description
+          A modern and responsive blog website built with Next.js 15, TypeScript, and Tailwind CSS featuring dynamic blog routing, category filtering, search functionality, and a clean user experience.
         </p>
         <Link
           href="/blogs"
