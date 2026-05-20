@@ -143,7 +143,7 @@ git commit -m "Initial commit of Next.js projects"
 git branch -M main
 
 # Add your GitHub repository as a remote (replace YOUR_REPOSITORY_URL)
-git remote add origin YOUR_REPOSITORY_URL
+git remote add origin https://github.com/sadiqkhan-eng/Next.js-Assignment
 
 # Push your changes to GitHub
 git push -u origin main
