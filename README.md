@@ -151,8 +151,8 @@ git push -u origin main
 
 ## Live Demos
 
-*   **Next.js Blog Site:** [(https://blog-sites-eight.vercel.app/)]
-*   **Next.js E-commerce Site:** [(https://ecommerce-sites-tau.vercel.app/)]
+*   **Next.js Blog Site:** https://blog-sites-eight.vercel.app/)
+*   **Next.js E-commerce Site:** https://ecommerce-sites-tau.vercel.app/
 
 ## Screenshots
 
