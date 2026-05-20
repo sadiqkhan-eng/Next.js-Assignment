@@ -11,7 +11,7 @@ const HeroSection = () => {
         <h1 className="text-4xl md:text-6xl font-extrabold leading-tight mb-4 animate-fade-in-down">
           NextWave Blog Platform
         </h1>
-        <p className="text-lg md:text-xl mb-8 opacity-90 animate-fade-in-up w-150">
+        <p className="text-lg md:text-xl mb-8 opacity-90 animate-fade-in-up">
           A modern and responsive blog website built with Next.js 15, TypeScript, and Tailwind CSS featuring dynamic blog routing, category filtering, search functionality, and a clean user experience.
         </p>
         <Link
