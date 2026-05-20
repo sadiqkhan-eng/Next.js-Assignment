@@ -3,14 +3,16 @@ import Link from 'next/link';
 
 const HeroSection = () => {
   return (
-    <section className="relative bg-gradient-to-r from-blue-600 to-purple-600 text-white py-20 md:py-32">
+    <section
+      className="relative bg-cover bg-center text-white py-20 md:py-32"
+      style={{ backgroundImage: "url('/images/hero-bg.jpg')" }}
+    >
       <div className="container mx-auto px-4 text-center relative z-10">
         <h1 className="text-4xl md:text-6xl font-extrabold leading-tight mb-4 animate-fade-in-down">
-          Unlock Your Potential with Deep Insights & Guides
+          Add random title now
         </h1>
         <p className="text-lg md:text-xl mb-8 opacity-90 animate-fade-in-up">
-          Dive into expert articles on web development, cutting-edge technology, and practical coding tips.
-          Your journey to mastery starts here.
+          add random description
         </p>
         <Link
           href="/blogs"
